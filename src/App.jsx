@@ -3,7 +3,7 @@ import img1 from "./img/img1.jpg";
 
 function App() {
   return (
-    <div className="max-w-6xl mx-auto border border-red-200">
+    <div className="max-w-5xl mx-auto">
       <img
         src={img1}
         alt=""
