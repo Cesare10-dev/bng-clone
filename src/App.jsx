@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import Search from "./components/Search";
+import Slides from "./components/Slides";
 import img1 from "./img/img1.jpg";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       />
       <Header />
       <Search />
+      <Slides />
     </div>
   );
 }
