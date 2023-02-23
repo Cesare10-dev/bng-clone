@@ -1,4 +1,5 @@
 import Header from "./components/Header";
+import Search from "./components/Search";
 import img1 from "./img/img1.jpg";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
         className="absolute -z-10 inset-0 h-full w-full object-cover"
       />
       <Header />
+      <Search />
     </div>
   );
 }

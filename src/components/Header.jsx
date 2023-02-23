@@ -6,7 +6,7 @@ import { RxAvatar } from "react-icons/rx";
 
 function Header() {
   return (
-    <div className="flex justify-between items-center h-10">
+    <div className="flex justify-between items-center h-10 mt-3">
       <div className="flex justify-between">
         <div className="flex mr-16 text-white text-lg">
           <SiMicrosoft className="h-6 w-6" />
